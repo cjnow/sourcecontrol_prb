@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="PRB916363_test">4a864773538232001f80a464aec58749</application>
+        <filter/>
+        <name>PRB916363_test Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_prb916363_test.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-17 22:12:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>86864773538232001f80a464aec5874b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRB916363_test Table</sys_name>
+        <sys_package display_value="PRB916363_test" source="x_prb916363_test">7d860773538232001f80a464aec587de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PRB916363_test">7d860773538232001f80a464aec587de</sys_scope>
+        <sys_update_name>sys_ui_module_86864773538232001f80a464aec5874b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-17 22:12:53</sys_updated_on>
+        <table>x_prb916363_test_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

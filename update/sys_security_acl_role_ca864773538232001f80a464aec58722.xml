@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-17 22:12:52</sys_created_on>
+        <sys_id>ca864773538232001f80a464aec58722</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_prb916363_test_table.x_prb916363_test.user</sys_name>
+        <sys_package display_value="PRB916363_test" source="x_prb916363_test">7d860773538232001f80a464aec587de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PRB916363_test">7d860773538232001f80a464aec587de</sys_scope>
+        <sys_security_acl display_value="x_prb916363_test_table">c6864773538232001f80a464aec58720</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ca864773538232001f80a464aec58722</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-17 22:12:52</sys_updated_on>
+        <sys_user_role display_value="x_prb916363_test.user" name="x_prb916363_test.user">f9860773538232001f80a464aec5879a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
